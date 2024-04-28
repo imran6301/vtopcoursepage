@@ -1,0 +1,152 @@
+*{
+    margin:0;
+    padding:0;
+}
+main{
+    display:flex;
+    background-color: rgb(19, 92, 180);
+   height:65px; 
+}
+.liness{
+    padding-left:7px;
+    width:30px;
+}
+.liness:hover{
+    cursor:pointer;
+}
+.logo{
+    width:50px;
+}
+.logo:hover{
+    cursor:pointer;
+}
+.vit:hover{
+    cursor:pointer;
+}
+.campus{
+    font-size: 17px;;
+    color:white;
+    margin:13px;
+    padding-top:8px;
+}
+.ho:hover{
+    cursor: pointer;
+}
+button{
+    margin-top:17px;
+    height: 30px;
+    color:white;
+    background-color: #135CB4;
+    border:1px solid rgb(0, 119, 255);
+}
+.imran{
+    height:40px;
+    width:60px;
+    margin-left:140px;
+}
+button:hover{
+    background-color: rgb(0, 81, 255);
+}
+.reg{
+    font-size: 15pxx;;
+    font-weight: 600;
+    color:white;
+    margin-top:20px;
+}
+.reg:hover{
+    cursor: pointer;
+}
+ul{
+    font-size:18px;
+    display:flex;
+    align-items: center;
+    margin-left: 45px;
+    list-style-type: none;
+    color:white;
+
+}
+li:hover{
+    cursor: pointer;
+}
+li{
+    margin-right:25px;
+}
+.ho{
+    height: 25px;
+    width:25px;
+    margin:10px;
+
+
+}
+.vit{
+    color:white;
+    font-size: 40px;
+
+    font-weight: 700;
+    margin:5px 0px 0px 10px;
+}
+img{
+    margin-left:4px;
+    padding-top:10px;
+    height:40px;
+    width:100px;
+}
+.mainn{
+   display: flex;
+}
+.line{
+    margin-top:1px;
+    margin-left: 40px;;
+    height:4px;
+    background-color: rgba(17, 157, 213, 0.689);
+}
+.linee{
+    margin-top:10px;
+    background-color: rgb(253, 248, 248);
+    height:2px;
+}
+.icons{
+    display:flex;
+    flex-direction: column;
+  height:655px;
+  width:50px;
+}
+.fa-bars{
+   padding-top:24px;
+    color:white;
+    padding-left:13px;
+   
+}
+.fa-solid,.fa-regular{ 
+    margin:5px 5px 8px 14px ;
+}
+.fa-solid:hover{
+    cursor: pointer;
+}
+.fa-regular:hover{
+    cursor: pointer;
+}
+.viewpage{  
+    height:655px;
+    width:1500px;
+}
+.cou{
+   font-size:25px ;
+   margin-left:15px;
+}
+.couu{
+    margin-top:10px;
+    margin-left:15px;
+    font-size:15px;
+}
+#quality{
+    height: 30px;
+    margin-left:15px;
+    width:1000px
+}
+.fin{
+    height:385px;
+    margin-top:15px;
+    margin-left:5px;
+    background-color: rgb(233, 244, 241);
+}
